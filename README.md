@@ -1,4 +1,4 @@
-# 📈 Walmart Weekly Sales Prediction using Machine Learning
+# 📈 Walmart Weekly Sales Prediction using Linear Regression
 
 ## 📌 Project Overview
 
